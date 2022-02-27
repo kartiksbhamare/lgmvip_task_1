@@ -1,1 +1,2 @@
-# lgmvip_task_1
+# LGMVIP-WebDev_Task1
+Developed using HTML, CSS and JavaScript.
